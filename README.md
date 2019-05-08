@@ -36,7 +36,7 @@ For a first time installation, the project and dependency sources can be
 obtained manually with `git` and `dep` (create directories as needed):
 
 ```
-git clone https://github.com/fonero-project/fnoaddrgen $GOPATH/src/github.com/fonero-project/fnocoin/fnoaddrgen
+git clone https://github.com/fonero-project/fnoaddrgen $GOPATH/src/github.com/fonero-project/fnod/fnoaddrgen
 cd $GOPATH/src/github.com/fonero-project/fnoaddrgen
 dep ensure
 ```
