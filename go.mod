@@ -1,6 +1,6 @@
 module github.com/fonero-project/fnoaddrgen
 
 require (
-	github.com/fonero-project/fnod v0.0.0-20190509071851-5943c83277c8
-	github.com/fonero-project/fnowallet v0.0.0-20190509072837-487f6bda7b04
+	github.com/fonero-project/fnod v0.0.0-20190509074000-c39a00dc7b28
+	github.com/fonero-project/fnowallet v0.0.0-20190509074146-a82e88a9c01d
 )
